@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**virashreejadhav/virashreejadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
+# 💫 About Me:
 👋 Hi, I'm Virashree Jadhav – a passionate Frontend Developer with over 2 years of experience in building scalable, responsive web applications.<br><br>🔹 Skilled in React.js, Redux, JavaScript (ES6+), TypeScript, HTML5, CSS3 (SCSS)<br>🔹 Experience in API integration, Micro-K8s Deployment, and MySQL<br>🔹 Proficient with tools like Git, Postman, JIRA, Swagger, VS Code, Travis CI, and Chrome DevTools<br><br>💡 At Persistent Systems, I contributed to developing and maintaining web applications, improving user experience, and reducing UI-related support tickets by 25%.<br><br>🚀 I'm always eager to explore modern frontend technologies, optimize performance, and build interactive UIs.<br><br>📌 Currently, I'm looking for new opportunities to apply my skills and grow as a React.js Developer.<br><br>
 
 
@@ -35,5 +22,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=virashreejadhav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
